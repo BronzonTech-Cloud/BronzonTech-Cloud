@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 ### 📫 How to reach me ? 
 | 🚀 App | 🔖 Id |
 | ------ | ----- |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | @BronzonTech |
+| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | @Good_Error |
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=bronzontech-cloud&theme=blue-green)
