@@ -27,9 +27,6 @@ You can click the Preview link to take a look at your changes.
 ![AdobeInDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### 📫 How to reach me ? 
-| 🚀 App | 🔖 Id |
-| ------ | ----- |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | @Good_Error |
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=bronzontech-cloud&theme=blue-green)
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=BronzonTech-Cloud)](https://github.com/anuraghazra/github-readme-stats)
