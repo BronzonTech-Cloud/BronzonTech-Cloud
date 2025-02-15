@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BronzonTech-Cloud
+- 👋 Hi, I’m Charles Bronzon
 - 👀 I’m interested in Web and App Developement ,Ethical Hacking ,etc.... 
 - 🌱 I’m currently learning Cracking , Spamming ,etc...
 - 💞️ I’m looking to collaborate on Python project ,Php project ,etc...
@@ -28,5 +28,8 @@ You can click the Preview link to take a look at your changes.
 ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BronzonTech-Cloud?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=BronzonTech-Cloud)](https://github.com/anuraghazra/github-readme-stats)
+![BronzonTech-Cloud's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BronzonTech-Cloud&theme=highcontrast&hide_border=false)
+
+![BronzonTech-Cloud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BronzonTech-Cloud&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
